@@ -36,7 +36,7 @@
 ### Prerequisites
 * Azure Subscription
 * Azure Functions Core Tools
-* Python 3.11+
+* Python 3.12
 * VS Code with Azure Functions Extension
 
 ### Configuration
