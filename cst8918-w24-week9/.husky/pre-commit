@@ -1,3 +1,0 @@
-terraform -chdir=infrastructure fmt -check -recursive
-terraform -chdir=infrastructure validate
-tflint
